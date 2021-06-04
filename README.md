@@ -5,6 +5,7 @@
  - Automation
  - eCommerce
  - Linux
+ - Crypto ... lol ... who is not?
 
 # 🌱 I’m currently learning ...
 - Ansible
